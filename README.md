@@ -174,8 +174,3 @@ opportunity. Live results vary from run to run, and this tool does not filter ba
 - Model trade size and liquidity
 - Backtest on historical tick data
 
-
-## Acknowledgements
-
-Started as a team course project for MTL732 Financial Mathematics (Prof. Aparna Mehra, IIT Delhi);
-thanks to my teammates for their contributions.
